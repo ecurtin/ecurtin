@@ -1,6 +1,6 @@
 ### Just an ATLien on the Internext 👽
 
-Senior Machine Learning Engineer @ [Mailchimp](https://mailchimp.com/). Would rather be [painting hurricanes](https://www.instagram.com/emilymaycurtin/).
+Staff ML Engineer @ [Mailchimp](https://mailchimp.com/). Would rather be [painting hurricanes](https://www.instagram.com/emilymaycurtin/).
 
 ### Q&A
 
